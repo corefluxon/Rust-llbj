@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/gitter/room/TheAlgorithms/community.svg?style=flat-square" height="20" alt="Gitter chat">
 </a>
 
-<!-- Short description: -->
+<!-- Short description -->
   <h3>All algorithms implemented in Rust - for education</h3>
 </div>
 
